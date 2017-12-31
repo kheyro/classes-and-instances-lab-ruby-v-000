@@ -3,4 +3,4 @@ end
 
 fido = new.Dog
 lassie = new.dog
-fido = new.Dog
+snoopy = new.Dog
